@@ -1,1 +1,1 @@
-HTML static page
+main.html
